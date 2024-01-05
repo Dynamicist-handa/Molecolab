@@ -1,4 +1,4 @@
-# Molecolab
+# Molecolab (c) 2024 ecopals GmbH
 An automated virtual laboratory to predict structure-property relationship. 
 
 This molecular dynamics simulation lab runs on 3 mouse clicks: 
