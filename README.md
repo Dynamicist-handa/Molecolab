@@ -12,7 +12,7 @@ Description to be contd.
 ![Figure_ProFIT_2_Workflow_Vision_vF](https://github.com/Dynamicist-handa/Molecolab/assets/88152448/8eec19b9-6657-4b6f-8feb-50f3ce9df980)
 
 
-![Flow_EEs_vF](https://github.com/Dynamicist-handa/Molecolab/assets/88152448/6af5555f-0818-42b1-b32d-ae06bab3ec6f)
+<img width="612" alt="Cloud" src="https://github.com/Dynamicist-handa/Molecolab/assets/88152448/a4ea9ca7-ef74-4ecc-9116-f4e01f7af6a5">
 
 
 
